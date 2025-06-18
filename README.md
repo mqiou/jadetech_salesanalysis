@@ -2,12 +2,6 @@
 
 # Overview
 
-## Company and Project
-
-- [ ]  Overview of company history, business model, and goals
-- [ ]  Explain the “so what” of the project
-- [ ]  Define important terminology, metrics, and dimensions
-
 ## Executive Summary
 
 Elist is an e-commerce company that sells popular electronics to a global customer base. From 2019 to 2022, Elist had a total sales revenue of $28 million, with over 100K orders placed and an average order value (AOV) of $260. The company saw its greatest sales growth in 2020, which coincided with consumer behavior shifting to online-ordering as a result of the COVID-19 lockdown. Since 2021, there has been an overall decline in sales.
