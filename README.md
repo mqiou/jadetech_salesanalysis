@@ -30,11 +30,8 @@ The product bringing the highest sales dollars is the 27in gaming monitor ($10M)
 
 The North America region alone brings in over half of total sales revenue (14M) and over half of total orders (6K). 
 - Over 90% of sales and orders are coming from NA, EMEA, and APAC
-- Despite being the second lowest in sales and orders, APAC held the highest AOV of all regions.
-[any details about countries - any with high AOV?]
+- Despite being the second lowest in sales and orders, APAC held the highest AOV of all regions
 
-(recommendation - consider phasing out the four products that have brought less than 5% of total sales, and concentrate on offering more computers and potentially more in-ear headphones like the apple airpods. considering that samsung charging cable brings in a lot of orders, could look into this customer base and consider offering more expensive products. 
-increase marketing efforts for expensive products in APAC because of high AOV.)
 
 ## Growth Rates
 
@@ -50,7 +47,6 @@ All products follow the overall year-over-year trend of significant growth in 20
 
 (*This calculation excludes four of the lowest performing products due to their magnitude impacting how drastic their month-over-month growth rates appear)
 
-(reocmmendations: further examination of the AOV volatility between august - october of 2022, since the peak and lowest of all time occurred back to back. also further examination of potential reasons for samsung webcam performing extremely well in 2021 compared to other products. 
 
 ## Loyalty Program 
 
@@ -61,7 +57,6 @@ The general trend has been positive for loyalty members at Elist. The proportion
 - Bose headphones, Samsung webcam, and the Apple Airpods have had more sales and orders from loyalty members than from non-loyalty. 
 - By 2022, across all regions, loyalty yearly AOV became greater than non-loyalty AOV.
 
-Recommendation: continue the loyalty program, potentially offer perks on the Apple iPhone for new loyalty members
 
 ## Refund Rates 
 The average order value of refunds is $416, compared with the AOV of non-refunded items at $252. The overall refund rate is 6%, with the highest refund rate occurring in 2020 at 10% and the lowest refund rate occurring in 2022 at 0%. There may be a missing data issue because there were zero refunds from August 2021 onwards.
@@ -70,15 +65,14 @@ The average order value of refunds is $416, compared with the AOV of non-refunde
 - The product with the highest refund rate is the Thinkpad laptop, at 12%, followed by the Macbook Air Laptop at 11%. The products with the lowest refund rates is the Samsung charging cable (1%) and the Bose headphones (0%).
 - The aov of loyalty member refunds ($297) is significantly lower than the aov of non-loyalty member refunds ($549), but the refund rate for loyalty members (6%) is higher than that of non-loyalty members (4%).
 
-- recommendation - 
 
 # Recommendations 
 
+- Consider phasing out the four products that have brought less than 5% of total sales, and concentrate on offering more computers and potentially more in-ear headphones like the apple airpods.
+- Given that samsung charging cable brings in a lot of orders but has low AOV, try to capitalize on this customer base by offering more expensive Samsung products.
+- Increase marketing efforts for expensive products in APAC because of high AOV.
+- The highest and lowest AOV of all time occurred back to back in Fall of 2022 - consider further examination of this short-term volatility.
+- continue the loyalty program, potentially offer perks for the loyalty program for those who purchase the Apple iPhone. 
 
-
-
-
-
-# Recommendations
 
 
