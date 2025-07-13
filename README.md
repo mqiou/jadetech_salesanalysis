@@ -4,9 +4,9 @@
 
 ## Executive Summary
 
-Elist is an e-commerce company that sells popular electronics to a global customer base. From 2019 to 2022, Elist had a total sales revenue of $28 million, with over 100K orders placed and an average order value (AOV) of $260. The company saw its greatest sales growth in 2020, which coincided with consumer behavior shifting to online-ordering as a result of the COVID-19 lockdown. Since 2021, there has been an overall decline in sales.
+Elist is an e-commerce company that sells popular electronics to a global customer base. From 2019 to 2022, Elist had a total sales revenue of $28M, with over 100K orders placed and an average order value (AOV) of $260. The company saw its greatest sales growth in 2020, which coincided with consumer behavior shifting to online-ordering as a result of the COVID-19 lockdown. Since 2021, there has been an overall decline in sales, likely a result of re-stabilizing after the pandemic lockdown surge.
 
-In this analysis, I deep-dive to explore sales trends, growth metrics, the loyalty program, and refund rates to reveal more insights in the company's story. This analysis is then presented to cross-functional teams to drive company recommendations.
+In this analysis, I deep-dive to explore sales trends, growth metrics, the loyalty program, and refund rates to reveal more insights about the company's story and to help inform strategic decisions across sales, marketing, and product teams.
 
 <details> 
 <summary>ERD of Dataset</summary>
@@ -18,61 +18,81 @@ In this analysis, I deep-dive to explore sales trends, growth metrics, the loyal
 # Summary of Insights 
 
 ## Sales Trends
+<img width="550" alt="Elistchart1_sales orders" src="https://github.com/user-attachments/assets/302703a9-45a0-4550-bf65-dbb01c04551f" />
+<img width="450" alt="Elistchart2_productmix" src="https://github.com/user-attachments/assets/45ff0cb5-9d73-4441-a2ae-e86972ad4c33" />
 
-On average, Elist had $7M in yearly sales, 27K in yearly orders, and $254 in AOV.  2020 brought in the most sales ($10M), likely due to COVID-19. 2021 brought in the most orders (35K), while 2020 had the highest AOV ($300). On the whole, sales, orders, and AOV have risen from 2019-2020, and then have been declining since 2021. 
-- On average across the years, the month of December sees the highest sales and the month of February sees the lowest sales. 
-- December of 2020 brought the highest monthly sales (1.2M) and order count (4K). October 2022 brought in the lowest sales (0.2M), lowest orders (825), and lowest AOV ($216). While - October 2022 had the lowest AOV ($216), October of 2020 brought the highest AOV of $322.
+On the whole, sales, orders, and AOV have risen from 2019-2020, and then have been declining since 2021. 
+- **Best performing months:** December of 2020 brought the highest monthly sales ($1.2M) and order count (4K), and October 2020 had the highest AOV ($322). 
+- **Lowest Performing Month:** October 2022 brought in the lowest sales (0.2M), lowest orders (825), and lowest AOV ($216). 
 
 The product bringing the highest sales dollars is the 27in gaming monitor ($10M), while the product bringing the highest number of orders (50K) is the Apple Airpods. 
-- Four products are driving over 95% total sales: the 27 inch 4K Gaming Monitor, the Apple Airpod Headphones, the Apple Macbook Air, and the Thinkpad Laptop.
-- Less than 5% of sales come from the following four products: The Apple iPhone and the Bose Headphones, the Samsung Cable charging pack, and the Samsung Webcam.
-- The Samsung Charging Cable Pack brings in less than 2% of total sales, but over 20% of the total order count. 
+- **Over 95% of total sales come from four products:** the 27 inch 4K Gaming Monitor, the Apple Airpod Headphones, the Apple Macbook Air, and the Thinkpad Laptop.
+- **Less than 5% of sales come from remaining four products:** The Apple iPhone and the Bose Headphones, the Samsung Cable charging pack, and the Samsung Webcam.
+- **High order volume but low revenue:** The Samsung Charging Cable Pack brings in less than 2% of total sales, but over 20% of the total order count. 
 
 The North America region alone brings in over half of total sales revenue (14M) and over half of total orders (6K). 
-- Over 90% of sales and orders are coming from NA, EMEA, and APAC
-- Despite being the second lowest in sales and orders, APAC held the highest AOV of all regions
+- **Over 90% of sales and orders** are coming from NA, EMEA, and APAC
+- Despite being the second lowest in sales and orders, **APAC held the highest AOV** of all regions
 
 
 ## Growth Rates
 
+<img width="400" alt="Screenshot 2025-07-13 at 1 56 02 PM" src="https://github.com/user-attachments/assets/5dab8d05-8999-4114-9931-24cb743f0ace" />
+
+<img width="600" alt="Elistchart3_AOVgrowth" src="https://github.com/user-attachments/assets/6398b12f-bd3b-4cc3-a148-80bf3c0f65b2" />
+
+
 The average year-over-year growth in sales for Elist is 36%, with 2020 experiencing the highest growth (165%), followed by a decline (-10%) in 2021, then an even more significant decline (-45%) in 2022. 
 
-- March of 2020 had the highest month-over-month growth rate of (50%), likely related to the pandemic lockdown, while October of 2022 saw the lowest growth rate (-55%). 
-- There are some repeated seasonal trends in sales and order count. There is typically a spike in growth in November and December, while there is typically a decline in growth in January, February, and October.
+- **Highest and lowest sales growth:** March of 2020 had the highest month-over-month growth rate of (50%), likely related to the pandemic lockdown, while October of 2022 saw the lowest growth rate (-55%). 
+- **Seasonal sales growth trends:** There is typically a spike in growth in November and December, while there is typically a decline in growth in January, February, and October.
 - Growth rates in AOV is inconsistent over the months across the years. The highest AOV growth rate occurred in September of 2022, and the lowest occurred in October of 2022. 
 
-All products follow the overall year-over-year trend of significant growth in 2020 and significant decline in 2022. In 2021, products experienced either low growth or decline, while the Samsung Webcam stood out by more than doubling in sales.
-- The Macbook Air had the overall highest YoY growth rate when sales more than quadrupled in 2020, and it also had the lowest YoY growth rate when sales declined by 55% in 2022.  
-- The ThinkPad Laptop saw the highest* MoM growth rate in November 2022 (143%) as well as the lowest growth in October of 2022 (-81%).
+All products follow the overall year-over-year trend of significant growth in 2020 and significant decline in 2022. The following are a few product growth highlights:
+- **Samsung Webcam:** In 2021, most products experienced either low growth or decline, while the Samsung Webcam stood out by more than doubling in sales.
+- **Macbook Air Laptop:** The Macbook Air had the overall highest YoY growth rate when sales more than quadrupled in 2020, and it also had the overall lowest YoY growth rate when sales declined by 55% in 2022. 
+- **ThinkPad Laptop:** The ThinkPad Laptop saw an extreme pivot in growth rate when its lowest rate occurred in October 2022 (-81%) and its highest rate occurred in November 2022 (143%).*
 
-(*This calculation excludes four of the lowest performing products due to their magnitude impacting how drastic their month-over-month growth rates appear)
+(*This calculation excludes four products due to their magnitude impacting how drastic their month-over-month growth rates appear)
 
 
 ## Loyalty Program 
+<img width="750" alt="Elistchart5_loyaltyAOV" src="https://github.com/user-attachments/assets/443b4d56-d10d-4e66-b19b-98e1a2d70d69" />
+<img width="750" alt="Elistchart6_loyaltyproducts" src="https://github.com/user-attachments/assets/4a2f3464-e4a8-4f81-920c-bcaba2149d38" />
 
-The general trend has been positive for loyalty members at Elist. The proportion of yearly sales and orders from loyalty members as well as the loyalty member AOV grew steadily through 2021 and exceeded that of non-loyalty members in 2021 as well. Loyalty order count exceeded non-loyalty members in January of 2021, while loyalty sales and AOV exceeded that of non-loyalty members in April and June, respectively. 
+The general trend has been positive and steady for loyalty members at Elist. Across all regions, non-loyalty sales peaked in 2021 and then has declined since, whereas loyalty sales peaked in 2022 and has stabilized. The proportion of sales and orders from loyalty members as well as the loyalty member AOV grew steadily through 2021 and exceeded non-loyalty members metrics in 2021 as well. 
 
-- For all products except the iPhone, the average yearly AOV has been greater for loyalty members than for non-loyalty members. The Apple iPhone is the only product that has never been purchased by a loyalty member. 
-- The Macbook Air took the longest for us to see any orders placed by loyalty members - only in May of 2021 did loyalty members start to purchase this product. This may be contributing to the increase in sales and AOV in 2021. 
-- Bose headphones, Samsung webcam, and the Apple Airpods have had more sales and orders from loyalty members than from non-loyalty. 
-- By 2022, across all regions, loyalty yearly AOV became greater than non-loyalty AOV.
+- The Apple iPhone is the only product that has **never been purchased by a loyalty member**. 
+- The Macbook Air saw **a delayed onset of loyalty member orders** - only in May of 2021 did loyalty members start to purchase this product, which likely contributed to an increase in loyalty AOV and sales. 
+- Bose headphones, Samsung webcam, and the Apple Airpods have had a **higher portion of their sales and orders coming from loyalty members**. 
+- By 2022, yearly loyalty AOV became greater than non-loyalty AOV across all regions.
 
 
-## Refund Rates 
-The average order value of refunds is $416, compared with the AOV of non-refunded items at $252. The overall refund rate is 6%, with the highest refund rate occurring in 2020 at 10% and the lowest refund rate occurring in 2022 at 0%. There may be a missing data issue because there were zero refunds from August 2021 onwards.
+## Refund Rates
+<img width="650" alt="Elistchart7_refundratebyproduct" src="https://github.com/user-attachments/assets/d760289e-be61-4808-ba8f-1ecc1c9f9a5e" />
+<img width="800" alt="Elistchart8_refundsbychannelproduct" src="https://github.com/user-attachments/assets/6cdf98c3-3626-466f-af5d-5a7548bdacac" />
 
-- The highest refund rates occurred in May of 2020 at 12%, and March 2021 at 11%, while the lowest rate occurred in June of 2021 at 4%. 
-- The product with the highest refund rate is the Thinkpad laptop, at 12%, followed by the Macbook Air Laptop at 11%. The products with the lowest refund rates is the Samsung charging cable (1%) and the Bose headphones (0%).
-- The aov of loyalty member refunds ($297) is significantly lower than the aov of non-loyalty member refunds ($549), but the refund rate for loyalty members (6%) is higher than that of non-loyalty members (4%).
+The YTD refund rate is 6%, with the highest yearly refund rate occurring in 2020 at 10%. The **highest monthly refund rates** occurred in May of 2020 at 12%, and March 2021 at 11%.
+- **Higher AOV for refunds:** The average order value of refunds is $416, compared with the AOV of non-refunded items at $252. This is driven by **expensive products having higher refund rates:** the products with the highest rates are the Thinkpad Laptop at 12%, and the Macbook Air Laptop at 11%.
+- Orders placed through social media channels see the **highest refund rates of all marketing channels**.
+- **Potential missing data:** there were zero refunds from August 2021 onwards.
 
 
 # Recommendations 
 
-- Consider phasing out the four products that have brought less than 5% of total sales, and concentrate on offering more computers and potentially more in-ear headphones like the apple airpods.
-- Given that samsung charging cable brings in a lot of orders but has low AOV, try to capitalize on this customer base by offering more expensive Samsung products.
-- Increase marketing efforts for expensive products in APAC because of high AOV.
-- The highest and lowest AOV of all time occurred back to back in Fall of 2022 - consider further examination of this short-term volatility.
-- continue the loyalty program, potentially offer perks for the loyalty program for those who purchase the Apple iPhone. 
+**Products**
+- Look further for any patterns in the sales of the four lowest performing products and increase sales opportunities where possible, or otherwise phase them out. Concentrate on offering more computers and potentially more in-ear headphones like the Apple Airpods. 
+- Given that the Samsung Charging Cable Pack brings in a lot of orders but has low AOV, try to capitalize on this customer base by offering more expensive Samsung products.
+- Look into the products with high refund metrics (Apple Airpod Headphones, MacBook Air Laptop, ThinkPad Laptop) to determine any patterns in reasons for the returns; consider conducting a brief customer survey or looking at existing data about refund reasons. 
+
+**Marketing**
+- Increase marketing efforts for expensive products in APAC region due to high AOV.
+- Increase marketing efforts during seasonally high-performing months to boost sales.
+
+**Loyalty Program**
+- Continue the loyalty program and monitor its performance to understand how it performs even further out from the post-lockdown time period.
+- Since loyalty members are not purchasing as much of the most expensive products, potentially offer membership-only perks on those products, especially the Apple iPhone. 
+- Consider targetting high-turnover customer bases (ie. young people on college campuses apartment condos) to gain loyalty membership fairly consistently, and create custom bundles on products for those specific customers.
 
 
 
