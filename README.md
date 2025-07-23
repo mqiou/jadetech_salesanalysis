@@ -1,10 +1,10 @@
-# Elist Company Analysis
+# JadeTech Company Analysis
 
 # Overview
 
 ## Executive Summary
 
-Elist is an e-commerce company that sells popular electronics to a global customer base. From 2019 to 2022, Elist had a total sales revenue of $28M, with over 100K orders placed and an average order value (AOV) of $260. The company saw its greatest sales growth in 2020, which coincided with consumer behavior shifting to online-ordering as a result of the COVID-19 lockdown. Since 2021, there has been an overall decline in sales, likely a result of re-stabilizing after the pandemic lockdown surge.
+JadeTech is an e-commerce company that sells popular electronics to a global customer base. From 2019 to 2022, JadeTech had a total sales revenue of $28M, with over 100K orders placed and an average order value (AOV) of $260. The company saw its greatest sales growth in 2020, which coincided with consumer behavior shifting to online-ordering as a result of the COVID-19 lockdown. Since 2021, there has been an overall decline in sales, likely a result of re-stabilizing after the pandemic lockdown surge.
 
 In this analysis, I deep-dive to explore sales trends, growth metrics, the loyalty program, and refund rates to reveal more insights about the company's story and to help inform strategic decisions across sales, marketing, and product teams.
 
@@ -38,8 +38,9 @@ The North America region alone brings in over half of total sales revenue (14M) 
 ## Growth Rates
 
 <img width="400" alt="Screenshot 2025-07-13 at 1 56 02 PM" src="https://github.com/user-attachments/assets/5dab8d05-8999-4114-9931-24cb743f0ace" />
+<img width="600" height="429" alt="Elistchart_aovgrowth" src="https://github.com/user-attachments/assets/5cb7889c-21ae-475f-9403-d86baf5397a4" />
 
-<img width="600" alt="Elistchart3_AOVgrowth" src="https://github.com/user-attachments/assets/6398b12f-bd3b-4cc3-a148-80bf3c0f65b2" />
+
 
 
 The average year-over-year growth in sales for Elist is 36%, with 2020 experiencing the highest growth (165%), followed by a decline (-10%) in 2021, then an even more significant decline (-45%) in 2022. 
@@ -69,10 +70,10 @@ The general trend has been positive and steady for loyalty members at Elist. Acr
 
 
 ## Refund Rates
-<img width="650" alt="Elistchart7_refundratebyproduct" src="https://github.com/user-attachments/assets/d760289e-be61-4808-ba8f-1ecc1c9f9a5e" />
-<img width="800" alt="Elistchart8_refundsbychannelproduct" src="https://github.com/user-attachments/assets/6cdf98c3-3626-466f-af5d-5a7548bdacac" />
+<img width="525" height="436" alt="Screenshot 2025-07-23 at 5 51 49 PM" src="https://github.com/user-attachments/assets/70726942-5761-48fa-a0cf-16aa9eb69bd7" />
+<img width="475" height="459" alt="Screenshot 2025-07-23 at 5 52 49 PM" src="https://github.com/user-attachments/assets/c5bf6fad-6f91-480a-a7a9-2eefe1c818ab" />
 
-The YTD refund rate is 6%, with the highest yearly refund rate occurring in 2020 at 10%. The **highest monthly refund rates** occurred in May of 2020 at 12%, and March 2021 at 11%.
+Overall, The YTD refund rate is 6%, with the highest yearly refund rate occurring in 2020 at 10%. The **highest monthly refund rates** occurred in May of 2020 at 12%, and March 2021 at 11%.
 - **Higher AOV for refunds:** The average order value of refunds is $416, compared with the AOV of non-refunded items at $252. This is driven by **expensive products having higher refund rates:** the products with the highest rates are the Thinkpad Laptop at 12%, and the Macbook Air Laptop at 11%.
 - Orders placed through social media channels see the **highest refund rates of all marketing channels**.
 - **Potential missing data:** there were zero refunds from August 2021 onwards.
@@ -84,7 +85,7 @@ The YTD refund rate is 6%, with the highest yearly refund rate occurring in 2020
 - **Investigate lowest-performing products:** Look further for any patterns in the sales of the Apple iPhone, the Bose Headphones, the Samsung Cable charging pack, and the Samsung Webcam. If no opportunities present themselves, consider phasing the product out.
 - **Expand offerings in top-performing categories:** Consider offering more computers, monitors, and in-ear headphones. 
 - **Increase Samsung brand sales**: Given that the Samsung Charging Cable Pack brings in a large order count but has low AOV, consider offering Samsung products that are more expensive, such as tablets or mobile phones.
-- **Examine products with high refund rates:** Look into the Apple Airpod Headphones, MacBook Air Laptop, and ThinkPad Laptop to determine any patterns in reasons for the returns; consider conducting a brief customer survey or looking at existing data about refund reasons. 
+- **Examine products with high refund rates:** Look into the Apple iPhone, MacBook Air Laptop, and ThinkPad Laptop to determine any patterns in reasons for the returns; consider conducting a brief customer survey or looking at existing data about refund reasons. 
 
 **Target Marketing Campaigns**
 - **Target high-value buyers in APAC region:** Increase marketing efforts overall, and especially for expensive products, in the APAC region due to its high AOV.
