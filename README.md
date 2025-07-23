@@ -73,10 +73,9 @@ The general trend has been positive and steady for loyalty members at Elist. Acr
 <img width="525" height="436" alt="Screenshot 2025-07-23 at 5 51 49 PM" src="https://github.com/user-attachments/assets/70726942-5761-48fa-a0cf-16aa9eb69bd7" />
 <img width="475" height="459" alt="Screenshot 2025-07-23 at 5 52 49 PM" src="https://github.com/user-attachments/assets/c5bf6fad-6f91-480a-a7a9-2eefe1c818ab" />
 
-Overall, The YTD refund rate is 6%, with the highest yearly refund rate occurring in 2020 at 10%. The **highest monthly refund rates** occurred in May of 2020 at 12%, and March 2021 at 11%.
+The YTD refund rate is 6%, with the highest yearly refund rate occurring in 2020 at 10%. The **highest monthly refund rates** occurred in May of 2020 at 12%, and March 2021 at 11%.
 - **Higher AOV for refunds:** The average order value of refunds is $416, compared with the AOV of non-refunded items at $252. This is driven by **expensive products having higher refund rates:** the products with the highest rates are the Thinkpad Laptop at 12%, and the Macbook Air Laptop at 11%.
-- Orders placed through social media channels see the **highest refund rates of all marketing channels**.
-- **Potential missing data:** there were zero refunds from August 2021 onwards.
+- **Potential missing data:** after a drop in refund data starting around March 2021, there were zero refunds from August 2021 onwards.
 
 
 # Recommendations 
