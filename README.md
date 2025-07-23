@@ -18,8 +18,8 @@ In this analysis, I deep-dive to explore sales trends, growth metrics, the loyal
 # Summary of Insights 
 
 ## Sales Trends
-<img width="550" alt="Elistchart1_sales orders" src="https://github.com/user-attachments/assets/302703a9-45a0-4550-bf65-dbb01c04551f" />
-<img width="450" alt="Elistchart2_productmix" src="https://github.com/user-attachments/assets/45ff0cb5-9d73-4441-a2ae-e86972ad4c33" />
+<img width="500" alt="Elistchart1_sales orders" src="https://github.com/user-attachments/assets/302703a9-45a0-4550-bf65-dbb01c04551f" />
+<img width="400" alt="Elistchart2_productmix" src="https://github.com/user-attachments/assets/45ff0cb5-9d73-4441-a2ae-e86972ad4c33" />
 
 On the whole, sales, orders, and AOV have risen from 2019-2020, and then have been declining since 2021. 
 - **Best performing months:** December of 2020 brought the highest monthly sales ($1.2M) and order count (4K), and October 2020 had the highest AOV ($322). 
@@ -37,8 +37,8 @@ The North America region alone brings in over half of total sales revenue (14M) 
 
 ## Growth Rates
 
-<img width="400" alt="Screenshot 2025-07-13 at 1 56 02 PM" src="https://github.com/user-attachments/assets/5dab8d05-8999-4114-9931-24cb743f0ace" />
-<img width="600" height="429" alt="Elistchart_aovgrowth" src="https://github.com/user-attachments/assets/5cb7889c-21ae-475f-9403-d86baf5397a4" />
+<img width="350" alt="Screenshot 2025-07-13 at 1 56 02 PM" src="https://github.com/user-attachments/assets/5dab8d05-8999-4114-9931-24cb743f0ace" />
+<img width="550" height="429" alt="Elistchart_aovgrowth" src="https://github.com/user-attachments/assets/5cb7889c-21ae-475f-9403-d86baf5397a4" />
 
 
 
@@ -58,8 +58,8 @@ All products follow the overall year-over-year trend of significant growth in 20
 
 
 ## Loyalty Program 
-<img width="750" alt="Elistchart5_loyaltyAOV" src="https://github.com/user-attachments/assets/443b4d56-d10d-4e66-b19b-98e1a2d70d69" />
-<img width="750" alt="Elistchart6_loyaltyproducts" src="https://github.com/user-attachments/assets/4a2f3464-e4a8-4f81-920c-bcaba2149d38" />
+<img width="800" height="379" alt="Screenshot 2025-07-23 at 6 19 40 PM" src="https://github.com/user-attachments/assets/e43efdf8-f11c-4247-8e06-a579e602f317" />
+<img width="750" height="468" alt="Screenshot 2025-07-23 at 6 16 55 PM" src="https://github.com/user-attachments/assets/0d5efbf7-fb20-4759-92e0-b747f928b7db" />
 
 The general trend has been positive and steady for loyalty members at Elist. Across all regions, non-loyalty sales peaked in 2021 and then has declined since, whereas loyalty sales peaked in 2022 and has stabilized. The proportion of sales and orders from loyalty members as well as the loyalty member AOV grew steadily through 2021 and exceeded non-loyalty members metrics in 2021 as well. 
 
