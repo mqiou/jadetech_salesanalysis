@@ -80,19 +80,20 @@ The YTD refund rate is 6%, with the highest yearly refund rate occurring in 2020
 
 # Recommendations 
 
-**Products**
-- Look further for any patterns in the sales of the four lowest performing products and increase sales opportunities where possible, or otherwise phase them out. Concentrate on offering more computers and potentially more in-ear headphones like the Apple Airpods. 
-- Given that the Samsung Charging Cable Pack brings in a lot of orders but has low AOV, try to capitalize on this customer base by offering more expensive Samsung products.
-- Look into the products with high refund metrics (Apple Airpod Headphones, MacBook Air Laptop, ThinkPad Laptop) to determine any patterns in reasons for the returns; consider conducting a brief customer survey or looking at existing data about refund reasons. 
+**Optimize on Products:**
+- **Investigate lowest-performing products:** Look further for any patterns in the sales of the Apple iPhone, the Bose Headphones, the Samsung Cable charging pack, and the Samsung Webcam. If no opportunities present themselves, consider phasing the product out.
+- **Expand offerings in top-performing categories:** Consider offering more computers, monitors, and in-ear headphones. 
+- **Increase Samsung brand sales**: Given that the Samsung Charging Cable Pack brings in a large order count but has low AOV, consider offering Samsung products that are more expensive, such as tablets or mobile phones.
+- **Examine products with high refund rates:** Look into the Apple Airpod Headphones, MacBook Air Laptop, and ThinkPad Laptop to determine any patterns in reasons for the returns; consider conducting a brief customer survey or looking at existing data about refund reasons. 
 
-**Marketing**
-- Increase marketing efforts for expensive products in APAC region due to high AOV.
-- Increase marketing efforts during seasonally high-performing months to boost sales.
+**Target Marketing Campaigns**
+- **Target high-value buyers in APAC region:** Increase marketing efforts overall, and especially for expensive products, in the APAC region due to its high AOV.
+- **Stand out against most common seasonal marketing:** Consider implementing off-season marketing campaigns (ie. for less universal holidays) to stand out against competitors, instead of adding to the existing marketing noise during most popular seasons. 
 
-**Loyalty Program**
-- Continue the loyalty program and monitor its performance to understand how it performs even further out from the post-lockdown time period.
-- Since loyalty members are not purchasing as much of the most expensive products, potentially offer membership-only perks on those products, especially the Apple iPhone. 
-- Consider targetting high-turnover customer bases (ie. young people on college campuses apartment condos) to gain loyalty membership fairly consistently, and create custom bundles on products for those specific customers.
+**Continue the Loyalty Program**
+- **Monitor program performance:** Continue the loyalty program and monitor its performance for any changes or stabilization beyond the peak years of the COVID pandemic.
+- **Offer more member-only perks**: Since loyalty members are not purchasing as much of the most expensive products, potentially offer membership-only perks on those products, especially the Apple iPhone. 
+- **Target high-turnover customers:** Consider targetting high-turnover customer bases (ie. young people on college campuses apartment condos) to gain loyalty membership fairly consistently, and create custom bundles on products for those specific customers.
 
 
 
