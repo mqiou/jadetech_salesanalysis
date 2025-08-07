@@ -1,4 +1,4 @@
-# JadeTech Company Analysis
+# JadeTech Sales Analysis
 
 # Overview
 
