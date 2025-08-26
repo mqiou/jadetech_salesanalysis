@@ -18,8 +18,10 @@ In this analysis, I deep-dive to explore sales trends, growth metrics, the loyal
 # Summary of Insights 
 
 ## Sales Trends
-<img width="500" alt="Elistchart1_sales orders" src="https://github.com/user-attachments/assets/302703a9-45a0-4550-bf65-dbb01c04551f" />
-<img width="400" alt="Elistchart2_productmix" src="https://github.com/user-attachments/assets/45ff0cb5-9d73-4441-a2ae-e86972ad4c33" />
+<p align="center">
+<img width="849" height="388" alt="Elistchart1_sales orders_v2" src="https://github.com/user-attachments/assets/47225349-d50b-4302-a549-63b6239d9a51" />
+<img width="700" alt="Elistchart2_productmix" src="https://github.com/user-attachments/assets/45ff0cb5-9d73-4441-a2ae-e86972ad4c33" />
+</p>
 
 On the whole, sales, orders, and AOV have risen from 2019-2020, and then have been declining since 2021. 
 - **Best performing months:** December of 2020 brought the highest monthly sales ($1.2M) and order count (4K), and October 2020 had the highest AOV ($322). 
@@ -36,12 +38,10 @@ The North America region alone brings in over half of total sales revenue (14M) 
 
 
 ## Growth Rates
-
-<img width="350" alt="Screenshot 2025-07-13 at 1 56 02 PM" src="https://github.com/user-attachments/assets/5dab8d05-8999-4114-9931-24cb743f0ace" />
-<img width="550" height="429" alt="Elistchart_aovgrowth" src="https://github.com/user-attachments/assets/5cb7889c-21ae-475f-9403-d86baf5397a4" />
-
-
-
+<p align="center">
+<img width="501" height="354" alt="Elistchart4_salesgrowth_v2" src="https://github.com/user-attachments/assets/562be6f7-e78a-4872-8fe5-9bf2165947f1" />
+<img width="800" height="429" alt="Elistchart_aovgrowth" src="https://github.com/user-attachments/assets/5cb7889c-21ae-475f-9403-d86baf5397a4" />
+</p>
 
 The average year-over-year growth in sales for Elist is 36%, with 2020 experiencing the highest growth (165%), followed by a decline (-10%) in 2021, then an even more significant decline (-45%) in 2022. 
 
@@ -58,8 +58,10 @@ All products follow the overall year-over-year trend of significant growth in 20
 
 
 ## Loyalty Program 
-<img width="800" height="379" alt="Screenshot 2025-07-23 at 6 19 40 PM" src="https://github.com/user-attachments/assets/e43efdf8-f11c-4247-8e06-a579e602f317" />
-<img width="750" height="468" alt="Screenshot 2025-07-23 at 6 16 55 PM" src="https://github.com/user-attachments/assets/0d5efbf7-fb20-4759-92e0-b747f928b7db" />
+<p align="center">
+<img width="946" height="407" alt="Elistchart5_loyaltyAOV_v3" src="https://github.com/user-attachments/assets/88098956-c098-447d-be4f-eca9d25940b1" />
+<img width="953" height="483" alt="Elistchart6_loyaltyproducts_v2" src="https://github.com/user-attachments/assets/d8928a5b-dde4-44d1-9c11-71abdeb72bd7" />
+</p>
 
 The general trend has been positive and steady for loyalty members at Elist. Across all regions, non-loyalty sales peaked in 2021 and then has declined since, whereas loyalty sales peaked in 2022 and has stabilized. The proportion of sales and orders from loyalty members as well as the loyalty member AOV grew steadily through 2021 and exceeded non-loyalty members metrics in 2021 as well. 
 
@@ -70,8 +72,9 @@ The general trend has been positive and steady for loyalty members at Elist. Acr
 
 
 ## Refund Rates
-<img width="525" height="436" alt="Screenshot 2025-07-23 at 5 51 49 PM" src="https://github.com/user-attachments/assets/70726942-5761-48fa-a0cf-16aa9eb69bd7" />
-<img width="475" height="459" alt="Screenshot 2025-07-23 at 5 52 49 PM" src="https://github.com/user-attachments/assets/c5bf6fad-6f91-480a-a7a9-2eefe1c818ab" />
+<p align="center">
+  <img width="648" height="410" alt="Elistchart8_refundrates" src="https://github.com/user-attachments/assets/ed635328-b8b7-44af-8af6-c1c067ca80b5" />
+</p>
 
 The YTD refund rate is 6%, with the highest yearly refund rate occurring in 2020 at 10%. The **highest monthly refund rates** occurred in May of 2020 at 12%, and March 2021 at 11%.
 - **Higher AOV for refunds:** The average order value of refunds is $416, compared with the AOV of non-refunded items at $252. This is driven by **expensive products having higher refund rates:** the products with the highest rates are the Thinkpad Laptop at 12%, and the Macbook Air Laptop at 11%.
